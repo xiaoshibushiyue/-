@@ -19,4 +19,9 @@
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="C:\Users\14516\Desktop\搜索树png.png">
+      <Filter>源文件</Filter>
+    </Image>
+  </ItemGroup>
 </Project>

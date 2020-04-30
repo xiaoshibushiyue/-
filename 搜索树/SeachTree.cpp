@@ -8,7 +8,6 @@
 //ËÑË÷Ê÷---¿Õ¼ä»»Ê±¼ä
 struct node_st
 {
-    /* data */
     struct node_st* ch[26];
     char desc[DESC_SIZE];
 };

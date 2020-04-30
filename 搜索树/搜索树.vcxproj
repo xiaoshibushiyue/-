@@ -141,6 +141,9 @@
   <ItemGroup>
     <ClCompile Include="SeachTree.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="C:\Users\14516\Desktop\搜索树png.png" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
